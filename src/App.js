@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import lytesnap_logo from './lytesnap.svg'
 import lytesnap_text from './lytesnap_text.svg'
 import './App.css';
